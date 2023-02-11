@@ -1,6 +1,5 @@
 #include <Windows.h>
 #include <iostream>
-#include <tlhelp32.h>
 
 int main()
 {
